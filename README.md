@@ -3,7 +3,7 @@
 git clone "https://github.com/suku19/ProjectInitializer.git"
 cd ProjectInitializer
 pip3 install -r PyGithub python-dotenv
-source ~/.automate.sh
+source ./automate.sh
 ```
 > **Note:** Open the .env file and update your username, password, and desired file directory.
 
